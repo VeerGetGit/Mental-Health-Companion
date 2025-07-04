@@ -48,6 +48,7 @@ Rising levels of stress, anxiety, and emotional struggles, especially among yout
 
 ## 🔗 Live Demo
 *(Render link here )*  
+It may take some time to open.so, please wait for a while.
 Example: [Live Demo](https://mental-health-companion-zbff.onrender.com)
 
 ---
