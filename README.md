@@ -42,7 +42,6 @@ Rising levels of stress, anxiety, and emotional struggles, especially among yout
 ---
 
 ## 📂 Project Files
-- 🎥 [📄 Project Presentation PPT](./Mental_Health_Companion_Presentation.pptx)
 - 💻 [Source Code](./app.py)
 
 ---
@@ -68,11 +67,3 @@ All user data and chats are secured and privacy is strictly maintained using Fir
 ---
 
 ## 🙏 Thank You!
-We appreciate your time and consideration.  
-Developed by **Team BITBYBIT:**  
-- Harsh Veer Singh  
-- Harshit Gupta  
-- Harsh Singh
-=======
-# Mental-Health-Companion
->>>>>>> 8babc8b3fc057f4f38b6b8ec2909e9bc7cb82d4d
