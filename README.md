@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # 🌟 Mental Health Companion – *Mind Care*
 *Track, Heal, and Connect – A Safe Space for Your Mind*
@@ -47,7 +47,7 @@ Rising levels of stress, anxiety, and emotional struggles, especially among yout
 ---
 
 ## 🔗 Live Demo
-*(Insert your Replit or Render link here if deployed)*  
+*(Render link here )*  
 Example: [Live Demo](https://mental-health-companion-zbff.onrender.com)
 
 ---
@@ -63,6 +63,7 @@ All user data and chats are secured and privacy is strictly maintained using Fir
 - Personalized AI recommendations based on long-term mood trends.
 - Community platform with moderated rooms.
 - Integration with wearable devices for live fitness tracking.
+- Wearable can be attached to make more user centric.
 
 ---
 
