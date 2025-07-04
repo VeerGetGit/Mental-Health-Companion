@@ -42,7 +42,6 @@ Rising levels of stress, anxiety, and emotional struggles, especially among yout
 ---
 
 ## 📂 Project Files
-- 🎥 [📄 Project Presentation PPT](./Mental_Health_Companion_Presentation.pptx)
 - 💻 [Source Code](./app.py)
 
 ---
