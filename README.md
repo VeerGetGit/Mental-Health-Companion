@@ -44,15 +44,6 @@ Rising levels of stress, anxiety, and emotional struggles, especially among yout
 ## 📂 Project Files
 - 💻 [Source Code](./app.py)
 
----
-
-## 🔗 Live Demo
-*(Render link here )*  
-It may take some time to open.so, please wait for a while.
-MIND CARE : [Live Demo](https://mental-health-companion-zbff.onrender.com)
-
----
-
 ## 🔒 Privacy & Security
 All user data and chats are secured and privacy is strictly maintained using Firebase security rules. Peer support chats are anonymous to ensure a stigma-free environment.
 
